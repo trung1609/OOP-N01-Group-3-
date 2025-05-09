@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/banhang.iml" filepath="$PROJECT_DIR$/banhang.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Trung OOP.iml" filepath="$PROJECT_DIR$/Trung OOP.iml" />
+>>>>>>> ff0b0103e88429830011201d2054506a8e2e85e9
     </modules>
   </component>
 </project>
